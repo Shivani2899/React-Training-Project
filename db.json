@@ -1,0 +1,540 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "Name": "Nil Graham",
+      "Email": "nil.graham@abc.com",
+      "Phone": "28748273148",
+      "Username": "Nil123",
+      "Password": "123@nil"
+    },
+    {
+      "id": 102,
+      "Name": "Lean Mathews",
+      "Email": "lean.mathews@abc.com",
+      "Phone": "2538543148",
+      "Username": "Lean123",
+      "Password": "123@lean"
+    },
+    {
+      "id": 103,
+      "Name": "Richie Rich",
+      "Email": "richie.rich@abc.com",
+      "Phone": "85932485925",
+      "Username": "Richie123",
+      "Password": "123@rich"
+    },
+    {
+      "id": 104,
+      "Name": "Andrew Terrace",
+      "Email": "andrew.terrace@abc.com",
+      "Phone": "900812344328",
+      "Username": "Andrew123",
+      "Password": "123@andrew"
+    },
+    {
+      "id": 105,
+      "Name": "John Jackson",
+      "Email": "john.jackson@abc.com",
+      "Phone": "47326159855",
+      "Username": "John123",
+      "Password": "123@john"
+    },
+    {
+      "id": 106,
+      "Name": "Nil kamal",
+      "Email": "nil.kamal@abc.com",
+      "Phone": "29157348554",
+      "Username": "Nil123",
+      "Password": "123@nil"
+    },
+    {
+      "id": 107,
+      "Name": "Joes Graham",
+      "Email": "joes.graham@abc.com",
+      "Phone": "27584574583",
+      "Username": "Joes123",
+      "Password": "123@joes"
+    },
+    {
+      "id": 108,
+      "Name": "Micky Michel",
+      "Email": "micky.michael@abc.com",
+      "Phone": "4574754384",
+      "Username": "Micky123",
+      "Password": "123@micky"
+    },
+    {
+      "id": 109,
+      "Name": "Mannu Wisdom",
+      "Email": "mannu.wisdom@abc.com",
+      "Phone": "284935954543",
+      "Username": "Mannu123",
+      "Password": "123@mannu"
+    },
+    {
+      "id": 201,
+      "Name": "Sandy Baden",
+      "Email": "sandy.baden@abc.com",
+      "Phone": "2314589437",
+      "Username": "Sandy123",
+      "Password": "123@sandy"
+    },
+    {
+      "id": 202,
+      "Name": "Jasprit Angel",
+      "Email": "jasprit.angel@abc.com",
+      "Phone": "2364736523",
+      "Username": "Jasprit123",
+      "Password": "123@jasprit"
+    },
+    {
+      "id": 203,
+      "Name": "Angela Mithin",
+      "Email": "angela.mithin@abc.com",
+      "Phone": "92489328433",
+      "Username": "Angela123",
+      "Password": "123@angela"
+    },
+    {
+      "id": 204,
+      "Name": "Harison Jackson",
+      "Email": "harison.jackson@abc.com",
+      "Phone": "834732487435",
+      "Username": "Harison123",
+      "Password": "123@harison"
+    },
+    {
+      "id": 205,
+      "Name": "Nomura Hari",
+      "Email": "nomura.hari@abc.com",
+      "Phone": "825893593334",
+      "Username": "Nomura123",
+      "Password": "123@nomura"
+    },
+    {
+      "id": 206,
+      "Name": "Ninja Jack",
+      "Email": "ninja.jack@abc.com",
+      "Phone": "89843534534",
+      "Username": "Ninja123",
+      "Password": "123@ninja"
+    },
+    {
+      "id": 207,
+      "Name": "Ammy Leanson",
+      "Email": "ammy.leanson@abc.com",
+      "Phone": "823954353002",
+      "Username": "Ammy123",
+      "Password": "123@ammy"
+    },
+    {
+      "id": 208,
+      "Name": "Aurif Sanfi",
+      "Email": "aurif.sanfi@abc.com",
+      "Phone": "29889545009",
+      "Username": "Aurif123",
+      "Password": "123@aurif"
+    },
+    {
+      "id": 209,
+      "Name": "Lena Mathews",
+      "Email": "lena.mathews@abc.com",
+      "Phone": "238435983534",
+      "Username": "Lena123",
+      "Password": "123@lena"
+    }
+  ],
+  "funds": [
+    {
+      "fid": 1011,
+      "fname": "ICICI Prudential",
+      "frisk": "Moderately high",
+      "frating": 5,
+      "freturn": 113
+    },
+    {
+      "fid": 1022,
+      "fname": "Tata Digital",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 113.14
+    },
+    {
+      "fid": 1033,
+      "fname": "Parag Parikh",
+      "frisk": "Low risk",
+      "frating": 5,
+      "freturn": 69.7
+    },
+    {
+      "fid": 1044,
+      "fname": "Axis Small Cap",
+      "frisk": "High risk",
+      "frating": 5,
+      "freturn": 88.64
+    },
+    {
+      "fid": 1055,
+      "fname": "Axis Bluechip",
+      "frisk": "Moderately high",
+      "frating": 5,
+      "freturn": 64.21
+    },
+    {
+      "fid": 1066,
+      "fname": "IIFL Focused Equity",
+      "frisk": "High risk",
+      "frating": 5,
+      "freturn": 76.26
+    },
+    {
+      "fid": 1077,
+      "fname": "SBI Small Cap",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 74.41
+    },
+    {
+      "fid": 1088,
+      "fname": "Mirae Asset Tax Saver",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 71.33
+    },
+    {
+      "fid": 1099,
+      "fname": "Mirae Asset Bluechip",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 84
+    },
+    {
+      "fid": 2011,
+      "fname": "UTI AMC",
+      "frisk": "High risk",
+      "frating": 3,
+      "freturn": 59
+    },
+    {
+      "fid": 2022,
+      "fname": "Aditya Birla",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 67.21
+    },
+    {
+      "fid": 2023,
+      "fname": "Nippon India",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 75
+    }
+  ],
+  "filterfunds": [
+    {
+      "fid": 1011,
+      "fname": "ICICI Prudential",
+      "frisk": "Moderately high",
+      "frating": 5,
+      "freturn": 113
+    },
+    {
+      "fid": 1022,
+      "fname": "Tata Digital",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 113.14
+    },
+    {
+      "fid": 1033,
+      "fname": "Parag Parikh",
+      "frisk": "Low risk",
+      "frating": 5,
+      "freturn": 69.7
+    },
+    {
+      "fid": 1044,
+      "fname": "Axis Small Cap",
+      "frisk": "High risk",
+      "frating": 5,
+      "freturn": 88.64
+    },
+    {
+      "fid": 1055,
+      "fname": "Axis Bluechip",
+      "frisk": "Moderately high",
+      "frating": 5,
+      "freturn": 64.21
+    },
+    {
+      "fid": 1066,
+      "fname": "IIFL Focused Equity",
+      "frisk": "High risk",
+      "frating": 5,
+      "freturn": 76.26
+    },
+    {
+      "fid": 1077,
+      "fname": "SBI Small Cap",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 74.41
+    },
+    {
+      "fid": 1088,
+      "fname": "Mirae Asset Tax Saver",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 71.33
+    },
+    {
+      "fid": 1099,
+      "fname": "Mirae Asset Bluechip",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 84
+    },
+    {
+      "fid": 2011,
+      "fname": "UTI AMC",
+      "frisk": "High risk",
+      "frating": 3,
+      "freturn": 59
+    },
+    {
+      "fid": 2022,
+      "fname": "Aditya Birla",
+      "frisk": "Low risk",
+      "frating": 4,
+      "freturn": 67.21
+    },
+    {
+      "fid": 2023,
+      "fname": "Nippon India",
+      "frisk": "Moderately high",
+      "frating": 4,
+      "freturn": 75
+    }
+  ],
+  "holdings": [
+    {
+      "hid": 10,
+      "fid":1011,
+      "fname":"ICICI Prudential",
+      "hname": "Infosys Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 17.2
+    },
+    {
+      "hid": 20,
+      "fid":1022,
+      "fname":"Tata Digital",
+      "hname": "TCS Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 10.3
+    },
+    {
+      "hid": 30,
+      "fid":1033,
+      "fname":"Parag Parikh",
+      "hname": "Tech Mahindra",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 9.8
+    },
+    {
+      "hid": 40,
+      "fid":1044,
+      "fname":"Axis Small Cap",
+      "hname": "HCL Technology Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 9.7
+    },
+    {
+      "hid": 50,
+      "fid":1055,
+      "fname":"Axis Bluechip",
+      "hname": "Persistent Systems Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 4.4
+    },
+    {
+      "hid": 60,
+      "fid":1066,
+      "fname":"IIFL Focused Equity",
+      "hname": "Bharti Airtel Ltd",
+      "hsector": "Communication",
+      "htype": "Equity",
+      "hasset": 4.2
+    },
+    {
+      "hid": 70,
+      "fid":1077,
+      "fname":"SBI Small Cap",
+      "hname": "Cyient Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 3.2
+    },
+    {
+      "hid": 80,
+      "fid":1088,
+      "fname":"Mirae Asset Tax Saver",
+      "hname": "Coforge Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 3.0
+    },
+    {
+      "hid": 90,
+      "fid":1099,
+      "fname":"Mirae Asset Bluechip",
+      "hname": "Zomato Ltd",
+      "hsector": "Services",
+      "htype": "Equity",
+      "hasset": 0.8
+    },
+    {
+      "hid": 100,
+      "fid":2011,
+      "fname":"UTI AMC",
+      "hname": "Indiamart Intermesh Ltd",
+      "hsector": "Services",
+      "htype": "Equity",
+      "hasset": 0.7
+    },
+    {
+      "hid": 101,
+      "fid":2022,
+      "fname":"Aditya Birla",
+      "hname": "Mphasis Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 0.6
+    },
+    {
+      "hid": 102,
+      "fid":2023,
+      "fname":"Nippon India",
+      "hname": "Mindtree Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 0.5
+    }
+  ],
+  "filterholdings": [
+    {
+      "hid": 10,
+      "fid":1011,
+      "fname":"ICICI Prudential",
+      "hname": "Infosys Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 17.2
+    },
+    {
+      "hid": 20,
+      "fid":1022,
+      "fname":"Tata Digital",
+      "hname": "TCS Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 10.3
+    },
+    {
+      "hid": 30,
+      "fid":1033,
+      "fname":"Parag Parikh",
+      "hname": "Tech Mahindra",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 9.8
+    },
+    {
+      "hid": 40,
+      "fid":1044,
+      "fname":"Axis Small Cap",
+      "hname": "HCL Technology Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 9.7
+    },
+    {
+      "hid": 50,
+      "fid":1055,
+      "fname":"Axis Bluechip",
+      "hname": "Persistent Systems Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 4.4
+    },
+    {
+      "hid": 60,
+      "fid":1066,
+      "fname":"IIFL Focused Equity",
+      "hname": "Bharti Airtel Ltd",
+      "hsector": "Communication",
+      "htype": "Equity",
+      "hasset": 4.2
+    },
+    {
+      "hid": 70,
+      "fid":1077,
+      "fname":"SBI Small Cap",
+      "hname": "Cyient Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 3.2
+    },
+    {
+      "hid": 80,
+      "fid":1088,
+      "fname":"Mirae Asset Tax Saver",
+      "hname": "Coforge Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 3.0
+    },
+    {
+      "hid": 90,
+      "fid":1099,
+      "fname":"Mirae Asset Bluechip",
+      "hname": "Zomato Ltd",
+      "hsector": "Services",
+      "htype": "Equity",
+      "hasset": 0.8
+    },
+    {
+      "hid": 100,
+      "fid":2011,
+      "fname":"UTI AMC",
+      "hname": "Indiamart Intermesh Ltd",
+      "hsector": "Services",
+      "htype": "Equity",
+      "hasset": 0.7
+    },
+    {
+      "hid": 101,
+      "fid":2022,
+      "fname":"Aditya Birla",
+      "hname": "Mphasis Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 0.6
+    },
+    {
+      "hid": 102,
+      "fid":2023,
+      "fname":"Nippon India",
+      "hname": "Mindtree Ltd",
+      "hsector": "Technology",
+      "htype": "Equity",
+      "hasset": 0.5
+    }
+  ]
+}
